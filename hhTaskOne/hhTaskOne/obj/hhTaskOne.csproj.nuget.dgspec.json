@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EHOT\\source\\repos\\hhTaskOne\\hhTaskOne\\hhTaskOne.csproj": {}
+    "C:\\Users\\EHOT\\Documents\\GitHub\\Mindbox\\hhTaskOne\\hhTaskOne\\hhTaskOne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EHOT\\source\\repos\\hhTaskOne\\hhTaskOne\\hhTaskOne.csproj": {
+    "C:\\Users\\EHOT\\Documents\\GitHub\\Mindbox\\hhTaskOne\\hhTaskOne\\hhTaskOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EHOT\\source\\repos\\hhTaskOne\\hhTaskOne\\hhTaskOne.csproj",
+        "projectUniqueName": "C:\\Users\\EHOT\\Documents\\GitHub\\Mindbox\\hhTaskOne\\hhTaskOne\\hhTaskOne.csproj",
         "projectName": "hhTaskOne",
-        "projectPath": "C:\\Users\\EHOT\\source\\repos\\hhTaskOne\\hhTaskOne\\hhTaskOne.csproj",
+        "projectPath": "C:\\Users\\EHOT\\Documents\\GitHub\\Mindbox\\hhTaskOne\\hhTaskOne\\hhTaskOne.csproj",
         "packagesPath": "C:\\Users\\EHOT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EHOT\\source\\repos\\hhTaskOne\\hhTaskOne\\obj\\",
+        "outputPath": "C:\\Users\\EHOT\\Documents\\GitHub\\Mindbox\\hhTaskOne\\hhTaskOne\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VisualStudio\\Corn\\NuGetPackages"

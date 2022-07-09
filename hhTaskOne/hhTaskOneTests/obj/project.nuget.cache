@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gy/z7K75P/9h5603Eq3k0YXmWDNjVaC7Vy7CRmxYYI/bvp/3A22tnQuH2xPnf5PthjItFfYUPWhpYxUjPfTZqg==",
+  "dgSpecHash": "iW5kagPg+2ZoMjr0aiaMa7wd5Fhi2TriozTgFrvR0fM092eEl0lVyF4WaEi/Ln35VAGimP1TD/Q0bdSXONCMBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EHOT\\source\\repos\\hhTaskOne\\hhTaskOneTests\\hhTaskOneTests.csproj",
+  "projectFilePath": "C:\\Users\\EHOT\\Documents\\GitHub\\Mindbox\\hhTaskOne\\hhTaskOneTests\\hhTaskOneTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EHOT\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\EHOT\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
