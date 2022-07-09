@@ -1,0 +1,15 @@
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\bin\Debug\net6.0\hhTaskOne.exe
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\bin\Debug\net6.0\hhTaskOne.deps.json
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\bin\Debug\net6.0\hhTaskOne.runtimeconfig.json
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\bin\Debug\net6.0\hhTaskOne.dll
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\bin\Debug\net6.0\hhTaskOne.pdb
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\obj\Debug\net6.0\hhTaskOne.csproj.AssemblyReference.cache
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\obj\Debug\net6.0\hhTaskOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\obj\Debug\net6.0\hhTaskOne.AssemblyInfoInputs.cache
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\obj\Debug\net6.0\hhTaskOne.AssemblyInfo.cs
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\obj\Debug\net6.0\hhTaskOne.csproj.CoreCompileInputs.cache
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\obj\Debug\net6.0\hhTaskOne.dll
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\obj\Debug\net6.0\refint\hhTaskOne.dll
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\obj\Debug\net6.0\hhTaskOne.pdb
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\obj\Debug\net6.0\hhTaskOne.genruntimeconfig.cache
+C:\Users\EHOT\source\repos\hhTaskOne\hhTaskOne\obj\Debug\net6.0\ref\hhTaskOne.dll
