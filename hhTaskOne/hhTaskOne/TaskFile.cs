@@ -26,7 +26,6 @@
         }
     }
 
-
     public class Triangle : IGetArea
     {
         private double area;
